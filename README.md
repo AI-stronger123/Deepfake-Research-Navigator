@@ -206,6 +206,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Su
 
 ## ⭐ Star History
 
+## Star History
+
 You can add a [Star History](https://star-history.com/) chart here once this repository has been created. Replace placeholders only with your actual GitHub username and repository name.
 
 ---
