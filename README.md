@@ -39,8 +39,6 @@
 - [⭐ Star History](#-star-history)
 ## 🔥 Hot Research & News
 
-Curated, dated announcements of substantive advances. Prioritize peer-reviewed publications, credible preprints, official dataset releases, evaluation challenges, and primary-source news.
-
 | Date         | Update                           | Category                               | Source          |
 | :----------- | :------------------------------- | :------------------------------------- | :-------------- |
 | *YYYY-MM-DD* | *Add a verified research update* | *Paper / Dataset / Challenge / Policy* | *[Source](URL)* |
