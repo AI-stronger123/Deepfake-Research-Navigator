@@ -204,11 +204,16 @@ List established groups only after verifying their official homepages and releva
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Suggested additions should have reliable paper and code links, a clear task category, and deduplicated metadata. We welcome corrections and new resources.
 
-## ⭐ Star History
 
 ## Star History
 
-You can add a [Star History](https://star-history.com/) chart here once this repository has been created. Replace placeholders only with your actual GitHub username and repository name.
+<a href="https://www.star-history.com/?repos=ai-stronger123%2Fdeepfake-research-navigator&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ai-stronger123/deepfake-research-navigator&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ai-stronger123/deepfake-research-navigator&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ai-stronger123/deepfake-research-navigator&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ---
 
